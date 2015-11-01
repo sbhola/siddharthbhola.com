@@ -1,2 +1,2 @@
 # siddharthbhola.com
-The Professional website of Siddharth Bhola
+The Professional website of Siddharth Bhola.
