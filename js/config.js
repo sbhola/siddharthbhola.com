@@ -6,63 +6,63 @@
 var skillData = {
 	skill1: [
 		{
-			title: "Adobe&nbsp;CS 90%",
+			title: "ASP.Net MVC 85%",
 			color: "#f3377a",
 			border: "4px solid #f4709f",
-			value: '90%'
+			value: '85%'
 		},
 		{
-			title: "UI/UX Design 100%",
-			color: "#f3377a",
-			border: "4px solid #f4709f",
-			value: '100%'
-		},
-		{
-			title: "Webtypography 80%",
+			title: "HTML 80%",
 			color: "#f3377a",
 			border: "4px solid #f4709f",
 			value: '80%'
 		},
 		{
-			title: "Logodesign 60%",
+			title: "CSS 70%",
 			color: "#f3377a",
 			border: "4px solid #f4709f",
-			value: '60%'
+			value: '70%'
 		},
-    {
-			title: "3D Max 75%",
+		{
+			title: "JavaScript 80%",
 			color: "#f3377a",
 			border: "4px solid #f4709f",
-			value: '75%'
-		}
+			value: '80%'
+		},
+		{
+			title: "JQuery 70%",
+			color: "#f3377a",
+			border: "4px solid #f4709f",
+			value: '70%'
+		}   	 	
 	],
 	skill2: [
 		{
-			title: "HTML5/CSS3 90%",
+			title: "C# (.Net) 80%",
 			color: "#1b7ee4",
 			border: "4px solid #8cc2f9",
 			value: '90%'
 		},
 		{
-			title: "PHP 75%",
+			title: "MongoDb 75%",
 			color: "#1b7ee4",
 			border: "4px solid #8cc2f9",
 			value: '75%'
 		},
 		{
-			title: "MySQL 90%",
+			title: "ElasticSearch 80%",
 			color: "#1b7ee4",
 			border: "4px solid #8cc2f9",
-			value: '90%'
+			value: '80%'
 		},
 		{
-			title: "JS/Jquery 60%",
+			title: "WCF 60%",
 			color: "#1b7ee4",
 			border: "4px solid #8cc2f9",
 			value: '60%'
 		},
-    {
-			title: "Wordpress 70%",
+    	{
+			title: "MySql 70%",
 			color: "#1b7ee4",
 			border: "4px solid #8cc2f9",
 			value: '70%'
@@ -70,28 +70,34 @@ var skillData = {
 	],
   skill3: [
 		{
-			title: "Creative 60%",
+			title: "Innovation 90%",
 			color: "#87b615",
 			border: "4px solid #e4f9b1",
-			value: '60%'
+			value: '90%'
 		},
 		{
-			title: "Football 70%",
-			color: "#87b615",
-			border: "4px solid #e4f9b1",
-			value: '70%'
-		},
-    {
-			title: "Badminton 85%",
+			title: "Leadership 85%",
 			color: "#87b615",
 			border: "4px solid #e4f9b1",
 			value: '85%'
 		},
-		{
-			title: "Leadership 90%",
+    	{
+			title: "Bike&nbsp;Riding 90%",
 			color: "#87b615",
 			border: "4px solid #e4f9b1",
 			value: '90%'
+		},
+		{
+			title: "Travelling 95%",
+			color: "#87b615",
+			border: "4px solid #e4f9b1",
+			value: '95%'
+		},
+		{
+			title: "Reading 75%",
+			color: "#87b615",
+			border: "4px solid #e4f9b1",
+			value: '75%'
 		}
 	]
 }
