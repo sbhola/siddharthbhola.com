@@ -314,7 +314,7 @@ p.tagline {
 	border-radius: 6px;
 }
 #home .idCard {
-	width: 48%;
+	//width: 48%;
 	float: right;
 	text-align: right;
 	padding-top: 15px;
