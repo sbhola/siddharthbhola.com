@@ -1,21 +1,21 @@
 /* Google MAP Settings*/
-  var lat= 18.525744;  //Change the value with your address Latitude
-  var lng= 73.786865;  //Change the value with your address Longitude
+  var lat= 18.538844;  //Change the value with your address Latitude
+  var lng= 73.900301;  //Change the value with your address Longitude
   
 //Skill Chart Data
 var skillData = {
 	skill1: [
 		{
-			title: "ASP.Net MVC 85%",
-			color: "#f3377a",
-			border: "4px solid #f4709f",
-			value: '85%'
-		},
-		{
-			title: "HTML 80%",
+			title: "ASP.Net MVC 80%",
 			color: "#f3377a",
 			border: "4px solid #f4709f",
 			value: '80%'
+		},
+		{
+			title: "HTML 70%",
+			color: "#f3377a",
+			border: "4px solid #f4709f",
+			value: '70%'
 		},
 		{
 			title: "CSS 70%",
@@ -24,16 +24,16 @@ var skillData = {
 			value: '70%'
 		},
 		{
-			title: "JavaScript 80%",
-			color: "#f3377a",
-			border: "4px solid #f4709f",
-			value: '80%'
-		},
-		{
-			title: "JQuery 70%",
+			title: "JavaScript 70%",
 			color: "#f3377a",
 			border: "4px solid #f4709f",
 			value: '70%'
+		},
+		{
+			title: "JQuery 60%",
+			color: "#f3377a",
+			border: "4px solid #f4709f",
+			value: '60%'
 		}   	 	
 	],
 	skill2: [
@@ -41,7 +41,13 @@ var skillData = {
 			title: "C# (.Net) 80%",
 			color: "#1b7ee4",
 			border: "4px solid #8cc2f9",
-			value: '90%'
+			value: '80%'
+		},
+		{
+			title: "Scala 60%",
+			color: "#1b7ee4",
+			border: "4px solid #8cc2f9",
+			value: '60%'
 		},
 		{
 			title: "MongoDb 75%",
@@ -56,16 +62,22 @@ var skillData = {
 			value: '80%'
 		},
 		{
-			title: "WCF 60%",
-			color: "#1b7ee4",
-			border: "4px solid #8cc2f9",
-			value: '60%'
-		},
-    	{
-			title: "MySql 70%",
+			title: "ASP Dot Net Web API 70%",
 			color: "#1b7ee4",
 			border: "4px solid #8cc2f9",
 			value: '70%'
+		},
+    	{
+			title: "MySql 50%",
+			color: "#1b7ee4",
+			border: "4px solid #8cc2f9",
+			value: '50%'
+		},
+		{
+			title: "Amazon Redshift 50%",
+			color: "#1b7ee4",
+			border: "4px solid #8cc2f9",
+			value: '50%'
 		}
 	],
   skill3: [
