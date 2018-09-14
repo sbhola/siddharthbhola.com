@@ -1,6 +1,6 @@
 /* Google MAP Settings*/
-  var lat= 18.538844;  //Change the value with your address Latitude
-  var lng= 73.900301;  //Change the value with your address Longitude
+  var lat= 42.0564635;  //Change the value with your address Latitude
+  var lng= -87.6840217;  //Change the value with your address Longitude
   
 //Skill Chart Data
 var skillData = {
